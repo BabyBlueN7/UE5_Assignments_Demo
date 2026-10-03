@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Game Development/Unreal/UE5_Assignments_Demo/Content/ThirdPerson/Blueprints/BP_SecurityDoor.uasset",
+				"D:/Game Development/Unreal/UE5_Assignments_Demo/Content/ThirdPerson/Maps/InteractiveLighting.umap",
+				"D:/Game Development/Unreal/Demo/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Game Development/Unreal/Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Game Development/Unreal/Demo/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"D:/Game Development/Unreal/Demo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/Game Development/Unreal/Demo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+			]
+		}
+	]
+}
