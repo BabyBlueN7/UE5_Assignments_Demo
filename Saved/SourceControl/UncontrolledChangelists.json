@@ -7,6 +7,7 @@
 			"files": [
 				"D:/Game Development/Unreal/UE5_Assignments_Demo/Content/ThirdPerson/Blueprints/BP_SecurityDoor.uasset",
 				"D:/Game Development/Unreal/UE5_Assignments_Demo/Content/ThirdPerson/Maps/InteractiveLighting.umap",
+				"D:/Game Development/Unreal/UE5_Assignments_Demo/Content/ThirdPerson/Blueprints/BP_SecurityCamera.uasset",
 				"D:/Game Development/Unreal/Demo/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Game Development/Unreal/Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Game Development/Unreal/Demo/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
