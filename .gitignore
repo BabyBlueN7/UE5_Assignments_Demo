@@ -1,0 +1,36 @@
+# ==========================================
+# Unreal Engine 5.5.4 GitIgnore File
+# ==========================================
+
+# Ignore local user, machine, and layout settings
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore local configuration overrides (Crucial for your dual-PC scalability)
+Config/DefaultEngineLocal.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# Ignore build and temporary folders
+Build/
+.vs/
+.idea/
+.vscode/
+
+# Ignore visual studio and compiled project assets
+*.sln
+*.suo
+*.user
+*.ncb
+*.booc
+*.svclog
+*.pdb
+*.opendb
+*.VC.db
+
+# Ignore auto-generated source files
+Source/**/*-gen.*
+
+# Ignore crash reports and logs
+*.log
